@@ -3,7 +3,7 @@ Their howls echo through the silent air, A call of the wild, beyond compare. In 
 Their fur so sleek, in shades of gray, They wander through night and into day. With hearts so fierce, yet spirits kind, In wolves, true beauty you will find.
 Majestic creatures of the night, In their presence, pure delight. Wolves, oh wolves, so wild and grand, The guardians of the forest land.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Obitobi-Uchiha&layout=compact&theme=dark)
-![](https://github-readme-stats.vercel.app/api?username=Obitobi-Uchiha&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LordW0lf&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=LordW0lf&show_icons=true&theme=dark)
  
-[![](https://streak-stats.demolab.com/?user=Obitobi-Uchiha&theme=dark)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com/?user=LordW0lf&theme=dark)](https://git.io/streak-stats)
